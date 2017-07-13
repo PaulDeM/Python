@@ -1,4 +1,4 @@
-__author__ = 'Pawe? Mordasiewicz'
+__author__ = 'Pawel Mordasiewicz'
 
 
 
