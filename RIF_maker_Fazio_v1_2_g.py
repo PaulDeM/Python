@@ -1,5 +1,5 @@
 #ATTENTION!!!
-''' First you have prepare your base
+''' First you have to prepare your base
 This is properly amount and names of column Subject	Session	Procedure[Block]	egzemocena	motivationLevelList	przymiotniki	Running[Trial]	Slide3.RESP	Slide3.RT	studyPair	PracticeCategory	PracticeCue
 next you have to remove polish sight in "przymiotniki" ś ->s , ę ->e, ź ->z, ą -> a, ł ->l and blank space
 next delete 'warm up' and "Ubrania" '''
